@@ -1,10 +1,40 @@
 {
   "project_info": {
     "project_number": "656724864757",
+    "firebase_url": "https://indosal-default-rtdb.firebaseio.com",
     "project_id": "indosal",
     "storage_bucket": "indosal.appspot.com"
   },
   "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656724864757:android:99cc8e83847437aed41fbc",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656724864757-5o1b31kudhm74h1abm1mple75snhhv5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKIintW6i-WGGVIZIDmcdywBrjZst6ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656724864757-5o1b31kudhm74h1abm1mple75snhhv5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
     {
       "client_info": {
         "mobilesdk_app_id": "1:656724864757:android:4a005d634ea82009d41fbc",
