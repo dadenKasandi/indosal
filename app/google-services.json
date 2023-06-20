@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656724864757",
+    "project_id": "indosal",
+    "storage_bucket": "indosal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656724864757:android:4a005d634ea82009d41fbc",
+        "android_client_info": {
+          "package_name": "com.kasandi.indosall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656724864757-qh04p560hh6ctmk349g02lv4dburlsd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kasandi.indosall",
+            "certificate_hash": "6e72310308f51a0d618f346c07e2a3f8c05c2b23"
+          }
+        },
+        {
+          "client_id": "656724864757-5o1b31kudhm74h1abm1mple75snhhv5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKIintW6i-WGGVIZIDmcdywBrjZst6ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656724864757-5o1b31kudhm74h1abm1mple75snhhv5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
